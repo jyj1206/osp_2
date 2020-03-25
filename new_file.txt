@@ -1,4 +1,8 @@
 git text
 1st modified - master local
 2nd modified - master remote
+<<<<<<< HEAD
 1st modified - branch_1
+=======
+1st modified - branch_2
+>>>>>>> new_file update - branch_2
