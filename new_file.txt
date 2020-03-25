@@ -1,3 +1,4 @@
 git text
 1st modified - master local
 2nd modified - master remote
+1st modified - branch_2
