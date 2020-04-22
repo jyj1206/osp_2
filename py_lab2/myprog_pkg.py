@@ -14,7 +14,7 @@ if __name__=='__main__':
             list1=input("1st list: ")
             list2=input("2nd list: ")
             unionf(list1,list2)
-            intersectionf(list1,list2,)
+            intersectionf(list1,list2)
         elif(select==3):
             print("exit the program...")
             exit(1)
